@@ -10,3 +10,4 @@ A simple Pokemon game, built with TypeScript
   3. `npm install typescript ts-node modemon --save-dev`
   4. `npm install express body-parser --save`
   5. `npm install @types/node @types/express @types/body-parser --save-dev`
+  6. to run: `npm run dev`
