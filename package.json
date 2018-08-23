@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/bunnydeviloper/pokemon-ts/issues"
   },
-  "homepage": "https://github.com/bunnydeviloper/pokemon-ts#readme"
+  "homepage": "https://github.com/bunnydeviloper/pokemon-ts#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
 }
