@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-ts",
+  "version": "1.0.0",
+  "description": "A simple Pokemon game, built with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunnydeviloper/pokemon-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunnydeviloper/pokemon-ts/issues"
+  },
+  "homepage": "https://github.com/bunnydeviloper/pokemon-ts#readme"
+}
